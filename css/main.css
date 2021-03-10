@@ -58,6 +58,10 @@ body {
   margin-bottom: 10px;
 }
 
+.masthead-brand .header-icon{
+  margin-right: 3px;
+}
+
 .nav-masthead {
   text-align: center;
   display: block;

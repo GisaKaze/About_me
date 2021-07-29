@@ -71,6 +71,10 @@ body {
   display: inline-block;
 }
 
+.nav-masthead head{
+  size: 100px;
+}
+
 @media (min-width: 768px) {
   .masthead-brand {
     float: left;

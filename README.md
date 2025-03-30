@@ -17,13 +17,11 @@ You can use the website to generate badges: https://shields.io/
 - Tech enthusiast 💯
 - UI & UX Designer 🔖
 - Dynamic web developer 💻
-- I’m currently a student at Rwanda Coding Academy.
 - Reach me out via email fredson.coder@gmail.com
-- I have got also a portfolio [gisakaze.ml](gisakaze.ml)
 
 **I am also available on social platforms**
 
 - Twitter: __@GisaKaze__
-- Dribbble: __GisaKFredson__
+- Instagram: __@gisakaze__
 
 
